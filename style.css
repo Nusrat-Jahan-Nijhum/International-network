@@ -76,13 +76,12 @@ main {
 }
  /*--------- pricing section -----------*/
  .pricing-card{
-     padding-right: 3rem;
-     margin-top: 5rem;
-     margin-left: 20rem;
-     
+     margin-top: 4rem;
+     max-width:70rem;
  }
  .single-price-card{
-
+     /* ekhane left use na korle card guloke kono vabei shorano jacchilo na !! -__- */
+    left: 8rem;
     height: 45rem;
  }
 .zero{
@@ -124,3 +123,9 @@ padding-right: 6rem;
 padding-top: 1.4rem;
 padding-bottom: 1.4rem;
 }
+
+/*.price-cards-alignment{
+display: flex;
+flex-direction: row;
+align-content:space-around;
+*/
