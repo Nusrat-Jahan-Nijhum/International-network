@@ -1,5 +1,27 @@
+
+/*---------
+NAV BAR
+----------*/
+
+.nav-theme{
+     /* background-color: transparent; */
+    background-color: rgb(184, 223, 233);
+}
+.brand-name{
+    margin-left: 190px;
+}
+/*  
+    background-image: url(images/wallpaper/1.jpg);
+    width:100%;
+    position: relative;
+*/
+
+/*----------- 
+       First section 
+---------------*/
 .caption{
-    margin-top: 70px;
+    margin-top: 200px;
+    margin-left: 50px;
 }
 .caption h1{
     font-weight: 800;
@@ -9,4 +31,20 @@
 }
 .caption button{
     border-radius: 25px;
+}
+
+/*-------------
+        FIRST CARDS WITH CAPTION 
+        -------------------*/
+.card-icon{
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+} 
+.card-title{
+    font-weight: 700;
+}     
+.card-text{
+    font-weight: 500;
 }
