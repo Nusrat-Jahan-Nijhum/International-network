@@ -1,0 +1,12 @@
+.caption{
+    margin-top: 70px;
+}
+.caption h1{
+    font-weight: 800;
+}
+.caption article{
+    font-weight: 500;
+}
+.caption button{
+    border-radius: 25px;
+}
