@@ -124,8 +124,14 @@ padding-top: 1.4rem;
 padding-bottom: 1.4rem;
 }
 
-/*.price-cards-alignment{
-display: flex;
-flex-direction: row;
-align-content:space-around;
-*/
+/*----------------------- World Map wala Part--------------*/
+.branch-text{
+    margin-top: 5rem;
+    margin-left:30rem;
+    font-weight: 700;
+}
+.world-map{
+    width: 40rem;
+    height:30rem ;
+    margin-left: 10rem;
+}
