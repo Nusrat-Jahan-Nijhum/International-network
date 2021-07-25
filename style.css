@@ -1,10 +1,12 @@
+/*--------------------- HEADER SECTION ------------------------------*/
+
 
 /*---------
 NAV BAR
 ----------*/
 
 .nav-theme{
-     /* background-color: transparent; */
+    /* background-color: transparent;*/
     background-color: rgb(184, 223, 233);
 }
 .brand-name{
@@ -19,6 +21,11 @@ NAV BAR
 /*----------- 
        First section 
 ---------------*/
+header .container{
+    
+    position: relative;
+
+}
 .caption{
     margin-top: 200px;
     margin-left: 50px;
@@ -36,6 +43,13 @@ NAV BAR
 /*-------------
         FIRST CARDS WITH CAPTION 
         -------------------*/
+
+.card-position{
+    position:relative;
+}  
+.card-movement{
+    justify-content: center;
+}   
 .card-icon{
     margin-top: 30px;
     margin-left: 20px;
@@ -47,4 +61,16 @@ NAV BAR
 }     
 .card-text{
     font-weight: 500;
+}
+
+
+
+
+/*--------------------- MAIN SECTION ------------------------------*/
+main {
+    background-color:#252B42;
+    background-size:cover;
+}
+.middle-caption{
+    padding-top: 150px;
 }
