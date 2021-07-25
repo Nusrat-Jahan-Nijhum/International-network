@@ -108,3 +108,19 @@ align-items: center;
     align-items: center;
     margin-right: 3.9rem;
 }
+
+
+
+/*----------- price card button -------*/
+.price-card-button{
+border:0;
+background-color:#49b6f5;
+border-radius: 5px;
+color: white;
+font-size: 1.3rem;
+font-weight: 700;
+padding-left: 6rem;
+padding-right: 6rem;
+padding-top: 1.4rem;
+padding-bottom: 1.4rem;
+}
